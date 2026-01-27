@@ -1,0 +1,549 @@
+[
+  {
+    "id": "round-bars",
+    "slug": "round-bars",
+    "title": "Round Bars",
+    "badge": "Best Seller",
+    "description": "Supernova Steel India is a reliable stockist and supplier of ferrous and non-ferrous round bars, including stainless steel, alloy steel, carbon steel, nickel alloys, aluminium, copper, brass, bronze, titanium, and other special metals.",
+    "longDescription": "We offer a comprehensive range of sizes, grades, and surface finishes to meet the diverse requirements of various industries. Our materials are sourced from reputed manufacturers such as Tata Steel, Mukand Ltd., Viraj Profiles, JSW Steel, SAIL, Vizag Steel, Jindal Aluminium, Hindalco, NALCO, Hindustan Copper, Vedanta Group, and other approved domestic & international mills. With strong inventory management and ready stock, we ensure fast delivery, consistent quality, and competitive pricing. All materials are supplied with full quality assurance and Mill Test Certificates (MTC).",
+    "image": "https://images.unsplash.com/photo-1535813547-99c456a41d4a?auto=format&fit=crop&q=80&w=800",
+    "materials": [
+      {
+        "category": "Ferrous Round Bars",
+        "items": [
+          "Stainless Steel Round Bars (All Grades)",
+          "Carbon Steel Round Bars",
+          "Mild Steel (MS) Round Bars",
+          "Alloy Steel Round Bars"
+        ]
+      },
+      {
+        "category": "Non-Ferrous Round Bars",
+        "items": [
+          "Copper Round Bars",
+          "Brass Round Bars",
+          "Aluminium Round Bars",
+          "Nickel Alloy Round Bars",
+          "Inconel / Monel / Hastelloy (on request)"
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "parameter": "Standards / Dimensions",
+        "value": "EN, DIN, JIS, ASTM, BS, ASME, AISI"
+      },
+      {
+        "parameter": "Finish",
+        "value": "Black, Bright Polished, Rough Turned, No.4 Finish, Matt Finish, BA Finish"
+      },
+      {
+        "parameter": "Length",
+        "value": "1 to 6 Meters"
+      },
+      {
+        "parameter": "Custom Lengths",
+        "value": "Available on request"
+      },
+      {
+        "parameter": "Product Forms",
+        "value": "Round, Square, Hex (A/F), Rectangle, Billet, Forging"
+      }
+    ],
+    "grades": {
+      "headers": [
+        "Material / Series",
+        "Grades"
+      ],
+      "rows": [
+        [
+          "Stainless Steel – 200 Series",
+          "201, 202"
+        ],
+        [
+          "Stainless Steel – 300 Series",
+          "303, 304 / 304L, 309 / 309S, 310 / 310S, 316 / 316L / 316Ti, 317 / 317L, 321, 347"
+        ],
+        [
+          "Stainless Steel – 400 Series",
+          "409, 410, 420, 430, 431, 440 (A / B / C)"
+        ],
+        [
+          "Stainless Steel – PH Grades",
+          "630 (17-4 PH)"
+        ],
+        [
+          "Aluminium",
+          "6082, 7075, 2014, 2024"
+        ],
+        [
+          "Monel",
+          "400, K500"
+        ],
+        [
+          "Nickel Alloys",
+          "Nickel 200 / 201, Alloy 20, Alloy 286, Nitronic 50 (XM-19), Nitronic 60"
+        ],
+        [
+          "Hastelloy",
+          "C22, C276"
+        ],
+        [
+          "Inconel",
+          "601, 625, 718, X-750, 825"
+        ],
+        [
+          "Copper",
+          "ASTM B1, B2, B3, B124, B133"
+        ],
+        [
+          "Brass",
+          "Alloy 260, 272, 330, 353, 360"
+        ],
+        [
+          "Bronze",
+          "Alloy 954, 933"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "pipes-and-tubes",
+    "slug": "pipes-and-tubes",
+    "title": "Pipes and Tubes",
+    "badge": "Industrial Grade",
+    "description": "Reliable supplier and stockist of Carbon Steel, Stainless Steel, and Alloy Pipes in Seamless and Welded constructions.",
+    "longDescription": "Manufactured in accordance with Indian (IS), ASTM, ASME, API, and BS standards. Our pipes are known for high strength, dimensional accuracy, and long service life, making them suitable for pressure, structural, and fluid transmission applications. We supply API Line Pipes in both Seamless and Welded (ERW / LSAW / SSAW) forms for oil, gas, and water transmission pipelines.",
+    "image": "https://images.unsplash.com/photo-1533069150645-56451e0646c8?auto=format&fit=crop&q=80&w=800",
+    "subCategories": [
+      {
+        "name": "Carbon Steel Pipes",
+        "description": "Seamless (superior strength, for critical/high-temp use) and Welded (ERW/EFW/SAW for structural/medium-pressure use)."
+      },
+      {
+        "name": "Stainless Steel Pipes",
+        "description": "Engineered for corrosion resistance, superior mechanical strength, and long-term operational safety. Available in Seamless, Welded, ERW, EFW."
+      },
+      {
+        "name": "Low Carbon Steel Pipes",
+        "description": "Excellent weldability, toughness, and formability."
+      }
+    ],
+    "specifications": [
+      {
+        "parameter": "Pipe Type",
+        "value": "Seamless · ERW · EFW · LSAW · SSAW"
+      },
+      {
+        "parameter": "International Grades (Carbon)",
+        "value": "ASTM A106 Gr B/C, A53, A333, A252, A671/672, API 5L X42-X70"
+      },
+      {
+        "parameter": "Indian Standard Grades",
+        "value": "IS 1239, IS 3589, IS 1978, IS 1161, IS 4923, IS 3183, IS 9295"
+      },
+      {
+        "parameter": "Material Grades (Stainless)",
+        "value": "304/L, 316/L, 310S, 321, 347/H, 410, 420, 430, Duplex 2205, Super Duplex 2507"
+      },
+      {
+        "parameter": "Nominal Bore (NB)",
+        "value": "1/8\" NB to 48\" NB"
+      },
+      {
+        "parameter": "Outer Diameter",
+        "value": "21.3 mm to 3048 mm (CS); 6 mm to 1219 mm (SS)"
+      },
+      {
+        "parameter": "Wall Thickness",
+        "value": "2.0 mm to 150 mm (CS); 0.5 mm to 50 mm (SS)"
+      },
+      {
+        "parameter": "Schedules",
+        "value": "SCH 5 to XXS"
+      },
+      {
+        "parameter": "End Finish",
+        "value": "Plain End (PE), Beveled End (BE), Threaded & Coupled (T&C)"
+      },
+      {
+        "parameter": "Surface Finish / Coating",
+        "value": "Black, Bare, Oiled, Varnished, Hot Dip Galvanized, Epoxy, FBE, 3LPE, 3LPP"
+      }
+    ],
+    "grades": null
+  },
+  {
+    "id": "sheets-plates-coils",
+    "slug": "sheets-plates-coils",
+    "title": "Sheets, Plates & Coils",
+    "description": "Comprehensive portfolio of Sheets, Plates, and Coils across all Ferrous and Non-Ferrous grades.",
+    "longDescription": "From standard commercial grades to high-performance and exotic alloys, we deliver metals engineered for today’s infrastructure, energy, manufacturing, and engineering challenges. We supply precision-engineered materials that comply with global quality standards.",
+    "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&q=80&w=800",
+    "materials": [
+      {
+        "category": "Ferrous Metal",
+        "items": [
+          "Stainless Steel",
+          "Carbon Steel",
+          "Alloy & Special Steels"
+        ]
+      },
+      {
+        "category": "Non-Ferrous Metal",
+        "items": [
+          "Aluminium",
+          "Copper",
+          "Brass & Bronze",
+          "Nickel & High-Performance Alloys"
+        ]
+      }
+    ],
+    "grades": {
+      "headers": [
+        "Material",
+        "Grades"
+      ],
+      "rows": [
+        [
+          "Stainless Steel - Austenitic",
+          "304, 304L, 316, 316L, 310, 321, 347"
+        ],
+        [
+          "Stainless Steel - Ferritic",
+          "409, 430, 441"
+        ],
+        [
+          "Stainless Steel - Martensitic",
+          "410, 420"
+        ],
+        [
+          "Duplex & Super Duplex",
+          "2205, 2507"
+        ],
+        [
+          "Carbon Steel",
+          "ASTM A36, ASTM A516 (Gr. 60/65/70), ASTM A283, A285, IS 2062 (E250/E350)"
+        ],
+        [
+          "Alloy & Special Steels",
+          "ASTM A387 (Gr. 11/12/22), Boiler & Pressure Vessel Steel, Structural Steel, Wear/Heat-Resistant Steel"
+        ],
+        [
+          "Aluminium",
+          "1100, 3003, 5052, 5083, 6061, 6082"
+        ],
+        [
+          "Copper",
+          "Electrolytic Copper, Oxygen-Free Copper (ASTM B152 / B187)"
+        ],
+        [
+          "Brass & Bronze",
+          "Naval Brass, Cartridge Brass, Phosphor Bronze"
+        ],
+        [
+          "Nickel Alloys",
+          "Inconel (600, 625, 718), Monel (K-400, K-500), Hastelloy (C22, C276)"
+        ],
+        [
+          "Titanium",
+          "GR1, GR2, GR5, GR7, GR12"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "fasteners",
+    "slug": "fasteners",
+    "title": "Fasteners",
+    "description": "Comprehensive range of industrial fasteners manufactured from high-quality ferrous and non-ferrous materials.",
+    "longDescription": "Suitable for demanding industrial applications. All fasteners are produced in compliance with international standards and supplied with complete quality documentation (MTC, Dimensional/Visual inspection).",
+    "image": "https://images.unsplash.com/photo-1582234394462-2bab5c8eec99?auto=format&fit=crop&q=80&w=800",
+    "subCategories": [
+      {
+        "name": "Bolts",
+        "description": "Hex Bolts, Stud Bolts, Anchor Bolts, U Bolts, Eye Bolts"
+      },
+      {
+        "name": "Nuts",
+        "description": "Hex Nuts, Flange Nuts, Square Nuts, Hex Coupling nuts"
+      },
+      {
+        "name": "Studs",
+        "description": "Weld Studs, Fully/Half Threaded Studs, Double End Stud, Threaded Rods"
+      },
+      {
+        "name": "Screws",
+        "description": "Hex Socket cap screw, Self Drilling Screw, Wood Screw, Thread cutting screw, Self Tapping Screw, Butterfly screw"
+      },
+      {
+        "name": "Coated Fasteners",
+        "description": "Hot Dip Galvanized (HDG), Zinc Plated, PTFE / Xylan Coated, Black Oxide"
+      }
+    ],
+    "specifications": [
+      {
+        "parameter": "Size (Bolts)",
+        "value": "M02 to M160, Custom Sizes"
+      },
+      {
+        "parameter": "Size (Screws)",
+        "value": "Imperial: 3/8\" to 8\"; Metric: M10 to M100"
+      },
+      {
+        "parameter": "Studs Range",
+        "value": "M6-M150, Length up to 7 meters"
+      },
+      {
+        "parameter": "Standards",
+        "value": "ASTM, ASME, DIN, ISO, BS"
+      },
+      {
+        "parameter": "Materials",
+        "value": "Stainless Steel, Carbon Steel, Alloy Steel, Duplex & Super Duplex, Non-Ferrous"
+      },
+      {
+        "parameter": "Bolt/Stud Standards",
+        "value": "ASTM A193, A320, A307 & equivalents"
+      },
+      {
+        "parameter": "Threads",
+        "value": "Metric, UNC, UNF, BSW"
+      }
+    ]
+  },
+  {
+    "id": "angle",
+    "slug": "angle",
+    "title": "Angle",
+    "description": "Essential structural steel products used across construction, engineering, and industrial sectors.",
+    "longDescription": "Manufactured using high-quality raw materials, our Steel Angles deliver excellent strength, durability, and dimensional accuracy. We supply Steel Angles in a wide range of sizes, grades, and specifications, meeting both national and international standards.",
+    "image": "https://plus.unsplash.com/premium_photo-1664302152998-d19b8841da38?auto=format&fit=crop&q=80&w=800",
+    "specifications": [
+      {
+        "parameter": "Angle Type",
+        "value": "Equal Angle / Unequal Angle"
+      },
+      {
+        "parameter": "Leg Size",
+        "value": "20 × 20 mm to 200 × 200 mm"
+      },
+      {
+        "parameter": "Thickness",
+        "value": "3 mm to 25 mm"
+      },
+      {
+        "parameter": "Standard Lengths",
+        "value": "6 m, 9 m, 12 m (Custom available)"
+      }
+    ],
+    "grades": {
+      "headers": [
+        "Type",
+        "Grades Available"
+      ],
+      "rows": [
+        [
+          "Mild Steel (MS)",
+          "IS 2062 E250 / E350, ASTM A36, EN S275 / S355"
+        ],
+        [
+          "Stainless Steel (SS)",
+          "SS 202, SS 304 / 304L, SS 316 / 316L, SS 310 / 321"
+        ],
+        [
+          "Alloy & High Tensile Steel",
+          "EN 8, EN 9, EN 24, SAE 4140"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "flanges",
+    "slug": "flanges",
+    "title": "Flanges",
+    "description": "Leak-free performance flanges for piping systems in Oil & Gas and Petrochemical industries.",
+    "longDescription": "We maintain ready stock of Weld Neck, Slip-On, Socket Weld, Lap Joint, and Blind Flanges. Trusted stockist, supplier, and exporter serving domestic and international markets.",
+    "image": "https://images.unsplash.com/photo-1542152431-ec7e44a42398?auto=format&fit=crop&q=80&w=800",
+    "subCategories": [
+      {
+        "name": "Types",
+        "description": "Weld Neck, Slip-On, Socket Weld, Lap Joint, Blind Flanges"
+      }
+    ],
+    "specifications": [
+      {
+        "parameter": "Size Range",
+        "value": "1/2\" NB to 48\" NB"
+      },
+      {
+        "parameter": "Pressure Class",
+        "value": "150, 300, 600, 900, 1500, 2500"
+      },
+      {
+        "parameter": "Face Type",
+        "value": "Raised Face (RF), Flat Face (FF), Ring Type Joint (RTJ)"
+      },
+      {
+        "parameter": "Certification",
+        "value": "Mill Test Certificate (EN 10204 / 3.1), Third Party Inspection"
+      },
+      {
+        "parameter": "Packing",
+        "value": "Wooden Cases, Pallet Packing, Export Sea-Worthy Packing"
+      }
+    ],
+    "grades": {
+      "headers": [
+        "Material Type",
+        "Standards & Grades"
+      ],
+      "rows": [
+        [
+          "Stainless Steel",
+          "ASTM A182 / A240 F304, 304L, 304H, 316, 316L, 316Ti, 310, 310S, 321, 321H, 317, 347, 347H, 904L"
+        ],
+        [
+          "Duplex & Super Duplex",
+          "ASTM A182 F44, F45, F51, F53, F55, F60, F61"
+        ],
+        [
+          "Carbon Steel",
+          "ASTM A105, ASTM A350, ASTM A181 LF2, ASTM A516 Gr.70, ASTM A36, ASTM A694 F42-F70"
+        ],
+        [
+          "Low Temp Carbon Steel",
+          "ASTM A350 LF2, LF3"
+        ],
+        [
+          "Alloy Steel",
+          "ASTM A182 / A387 F1, F5, F9, F11, F12, F22, F91"
+        ],
+        [
+          "Copper Alloy",
+          "ASTM SB61, SB62, SB151, SB152, Cu-Ni 90/10, Cu-Ni 70/30, C10100-C12200"
+        ],
+        [
+          "Nickel Alloy",
+          "Nickel 200/201, Monel 400/500, Inconel 800/825/600/625/601, Hastelloy C276, Alloy 20"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "butt-weld-fittings",
+    "slug": "butt-weld-fittings",
+    "title": "Butt Weld Pipe Fittings",
+    "description": "Preferred solution for critical piping systems ensuring uniform flow and zero leakage.",
+    "longDescription": "By forming a fully welded joint, these fittings deliver exceptional strength, even in extreme pressure and temperature conditions. Leading stockist serving oil & gas, petrochemical, power, and process industries.",
+    "image": "https://images.unsplash.com/photo-1621253457007-ec0ee3db1900?auto=format&fit=crop&q=80&w=800",
+    "specifications": [
+      {
+        "parameter": "Products",
+        "value": "Elbows (45°, 90°, 180°), Tees, Reducers (Concentric/Eccentric), Stub Ends, Caps"
+      },
+      {
+        "parameter": "Size Range",
+        "value": "1/2\" NB to 48\" NB"
+      },
+      {
+        "parameter": "Wall Thickness",
+        "value": "SCH 10 to XXS"
+      },
+      {
+        "parameter": "Manufacturing Standard",
+        "value": "ASME B16.9 / ASME B16.28"
+      }
+    ],
+    "grades": {
+      "headers": [
+        "Material",
+        "Standard & Grades"
+      ],
+      "rows": [
+        [
+          "Stainless Steel",
+          "ASTM A403 WP 304/L/H, 310S/H, 316/L/H, 317/L, 321/H, 347/H, 904L"
+        ],
+        [
+          "Duplex / Super Duplex",
+          "ASTM A815 S31254, S31803, S32205, S32750, S32760"
+        ],
+        [
+          "Carbon Steel",
+          "ASTM A234 / A420 WPB, WPC, WPL3, WPL6"
+        ],
+        [
+          "Alloy Steel",
+          "ASTM A234 WP1, WP5, WP9, WP11, WP12, WP22, WP91"
+        ],
+        [
+          "Nickel Alloys",
+          "ASTM B366 UNS N02200, N04400, N06600, N06625, N08800, N08810, N08825, N06022, N08020"
+        ],
+        [
+          "Brass & Aluminium",
+          "ASTM B361 / B62 A96063, A96082, A96061, A95052, A95083, A97075, C83600"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "forged-fittings",
+    "slug": "forged-fittings",
+    "title": "Forged Fittings",
+    "description": "High-Pressure, Precision-Forged Solutions for compact piping systems.",
+    "longDescription": "Designed for compact piping systems requiring high strength, excellent pressure resistance, and leak-free performance. Manufactured from solid forged materials.",
+    "image": "https://images.unsplash.com/photo-1565514020126-77765ecf9bb3?auto=format&fit=crop&q=80&w=800",
+    "specifications": [
+      {
+        "parameter": "Product Range",
+        "value": "Elbows, Tees, Couplings (Full/Half), Unions, Caps, Plugs"
+      },
+      {
+        "parameter": "Connections",
+        "value": "Socket Weld (SW) and Threaded (NPT / BSP / BSPT)"
+      },
+      {
+        "parameter": "Size Range",
+        "value": "1/2\" NB to 4\" NB"
+      },
+      {
+        "parameter": "Pressure Class",
+        "value": "2000, 3000, 6000 LBS"
+      },
+      {
+        "parameter": "Manufacturing Standard",
+        "value": "ASME B16.11"
+      }
+    ],
+    "grades": {
+      "headers": [
+        "Material",
+        "Grades"
+      ],
+      "rows": [
+        [
+          "Stainless Steel",
+          "ASTM A182 F304/L/H, F316/L/H, F310, F321/H, F347/H"
+        ],
+        [
+          "Carbon Steel",
+          "ASTM A105, ASTM A350 LF2"
+        ],
+        [
+          "Alloy / Chrome Moly",
+          "ASTM A182 F1, F5, F9, F11, F12, F22, F91"
+        ],
+        [
+          "Duplex & Super Duplex",
+          "ASTM A182 F44, F51, F53, F55"
+        ],
+        [
+          "Nickel Alloys",
+          "ASTM B564 UNS N02200, N04400, N06600, N06625, N08825, N08020"
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased text-slate-900 bg-white;
+  }
+  
+  h1 {
+    @apply text-4xl font-bold tracking-tight text-primary;
+  }
+  
+  h2 {
+    @apply text-3xl font-bold tracking-tight text-primary-light;
+  }
+  
+  h3 {
+    @apply text-xl font-semibold text-secondary;
+  }
+}
+
+/* Custom Scrollbar for industrial feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1; 
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8; 
+}
