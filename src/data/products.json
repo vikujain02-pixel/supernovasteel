@@ -114,7 +114,7 @@
     "badge": "Industrial Grade",
     "description": "Reliable supplier and stockist of Carbon Steel, Stainless Steel, and Alloy Pipes in Seamless and Welded constructions.",
     "longDescription": "Manufactured in accordance with Indian (IS), ASTM, ASME, API, and BS standards. Our pipes are known for high strength, dimensional accuracy, and long service life, making them suitable for pressure, structural, and fluid transmission applications. We supply API Line Pipes in both Seamless and Welded (ERW / LSAW / SSAW) forms for oil, gas, and water transmission pipelines.",
-    "image": "https://images.unsplash.com/photo-1533069150645-56451e0646c8?auto=format&fit=crop&q=80&w=800",
+    "image": "/pipes/pipes/Aluminium pipes.png",
     "subCategories": [
       {
         "name": "Carbon Steel Pipes",
@@ -171,7 +171,26 @@
         "value": "Black, Bare, Oiled, Varnished, Hot Dip Galvanized, Epoxy, FBE, 3LPE, 3LPP"
       }
     ],
-    "grades": null
+    "grades": null,
+    "images": [
+      "/pipes/pipes/Aluminium pipes.png",
+      "/pipes/pipes/API 5L PIPES.png",
+      "/pipes/pipes/API-5L-X52-PSL2-Seamless-steel-pipe.jpg,,,,,,,,,,,,,.png",
+      "/pipes/pipes/as pipe final.jpg",
+      "/pipes/pipes/ASTM A335 P11.png",
+      "/pipes/pipes/ASTTM A106 GR B CS PIPES.png",
+      "/pipes/pipes/Carbon steel pipes and tubes.png",
+      "/pipes/pipes/ChatGPT Image Feb 19, 2026, 12_25_06 PM.png",
+      "/pipes/pipes/ChatGPT Image Jan 28, 2026, 04_00_13 PM.png",
+      "/pipes/pipes/CS PIPES.jpg",
+      "/pipes/pipes/CS SMLS PIPES.png",
+      "/pipes/pipes/Inconel 625 pipes.png",
+      "/pipes/pipes/Inconel Alloy pipes.png",
+      "/pipes/pipes/Nickal Alloy heat exchanger tubes.png",
+      "/pipes/pipes/ss 316 pipes.png",
+      "/pipes/pipes/ss welded pipes.png",
+      "/pipes/pipes/Super Duplex  U Tubes.png"
+    ]
   },
   {
     "id": "sheets-plates-coils",
@@ -179,7 +198,7 @@
     "title": "Sheets, Plates & Coils",
     "description": "Comprehensive portfolio of Sheets, Plates, and Coils across all Ferrous and Non-Ferrous grades.",
     "longDescription": "From standard commercial grades to high-performance and exotic alloys, we deliver metals engineered for today’s infrastructure, energy, manufacturing, and engineering challenges. We supply precision-engineered materials that comply with global quality standards.",
-    "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&q=80&w=800",
+    "image": "/SHEET PLATE COILS/316 SS PLATE.webp",
     "materials": [
       {
         "category": "Ferrous Metal",
@@ -250,7 +269,26 @@
           "GR1, GR2, GR5, GR7, GR12"
         ]
       ]
-    }
+    },
+    "images": [
+      "/SHEET PLATE COILS/316 SS PLATE.webp",
+      "/SHEET PLATE COILS/316 TI SS PLATE.webp",
+      "/SHEET PLATE COILS/347 SS PLATE.webp",
+      "/SHEET PLATE COILS/A36 Carbon Steel Plate & Sheet .png",
+      "/SHEET PLATE COILS/Aluminum coil Gr. 5083 &5052 .png",
+      "/SHEET PLATE COILS/ALUMINYM COIL.jpg",
+      "/SHEET PLATE COILS/Carbon & Mild Steel Coils .png",
+      "/SHEET PLATE COILS/CS COIL.webp",
+      "/SHEET PLATE COILS/Mirror Stainless Steel Plate .png",
+      "/SHEET PLATE COILS/SS 316 COIL.webp",
+      "/SHEET PLATE COILS/SS COIL.jpg",
+      "/SHEET PLATE COILS/SS SHEET.webp",
+      "/SHEET PLATE COILS/SS SHEET_LE_upscale_prime.jpg",
+      "/SHEET PLATE COILS/Stainless Steel Chequered sheets.png",
+      "/SHEET PLATE COILS/Stainless Steel Hot Rolled Coil .png",
+      "/SHEET PLATE COILS/Stainless Steel Sheet Gr.304.png",
+      "/SHEET PLATE COILS/Titanium steel plate GR1 GR2.png"
+    ]
   },
   {
     "id": "fasteners",
@@ -318,7 +356,7 @@
     "title": "Angle",
     "description": "Essential structural steel products used across construction, engineering, and industrial sectors.",
     "longDescription": "Manufactured using high-quality raw materials, our Steel Angles deliver excellent strength, durability, and dimensional accuracy. We supply Steel Angles in a wide range of sizes, grades, and specifications, meeting both national and international standards.",
-    "image": "https://plus.unsplash.com/premium_photo-1664302152998-d19b8841da38?auto=format&fit=crop&q=80&w=800",
+    "image": "/ANGLES PICS/Alloy steel angle bar .png",
     "specifications": [
       {
         "parameter": "Angle Type",
@@ -356,7 +394,16 @@
           "EN 8, EN 9, EN 24, SAE 4140"
         ]
       ]
-    }
+    },
+    "images": [
+      "/ANGLES PICS/Alloy steel angle bar .png",
+      "/ANGLES PICS/angles.jpg",
+      "/ANGLES PICS/Carbon Steel Angle Bars .png",
+      "/ANGLES PICS/channel.jpg",
+      "/ANGLES PICS/Duplex Steel  Angle Bars .png",
+      "/ANGLES PICS/Stainless Steel Angle Bars Gr 316.png",
+      "/ANGLES PICS/Stainless Steel Angle Bars.png"
+    ]
   },
   {
     "id": "flanges",
@@ -364,7 +411,7 @@
     "title": "Flanges",
     "description": "Leak-free performance flanges for piping systems in Oil & Gas and Petrochemical industries.",
     "longDescription": "We maintain ready stock of Weld Neck, Slip-On, Socket Weld, Lap Joint, and Blind Flanges. Trusted stockist, supplier, and exporter serving domestic and international markets.",
-    "image": "https://images.unsplash.com/photo-1542152431-ec7e44a42398?auto=format&fit=crop&q=80&w=800",
+    "image": "/FLANGES/1743147532250.png",
     "subCategories": [
       {
         "name": "Types",
@@ -428,7 +475,28 @@
           "Nickel 200/201, Monel 400/500, Inconel 800/825/600/625/601, Hastelloy C276, Alloy 20"
         ]
       ]
-    }
+    },
+    "images": [
+      "/FLANGES/1743147532250.png",
+      "/FLANGES/Alloy Steel Flanges.png",
+      "/FLANGES/ASTM A105 Carbon Steel Flanges.png",
+      "/FLANGES/carbon-steel-A694-f52.jpg",
+      "/FLANGES/cs flanges a694 f70.jpg",
+      "/FLANGES/cs flanges'.jpg",
+      "/FLANGES/Cupper  Nickel Flanges.png",
+      "/FLANGES/Duplex 2205 UNS S31803 Flanges.png",
+      "/FLANGES/duplex-steel-flanges.jpg",
+      "/FLANGES/flange packing 13-1806.jpg",
+      "/FLANGES/Flange-Inside-Diameter-of-WNRF-flanges.jpg",
+      "/FLANGES/Forged-Steel-Flange..jpg",
+      "/FLANGES/industrial-flange-manufacturing-process-in-india.jpg",
+      "/FLANGES/ss-304-flanges.jpg",
+      "/FLANGES/ss-316-316l-flanges.jpg",
+      "/FLANGES/Stainless Steel Flanges .png",
+      "/FLANGES/Stainless Steel Flanges Gr.316.png",
+      "/FLANGES/stainless-steel-slip-on-flanges.jpg",
+      "/FLANGES/stainless-steel-spactical-blind-flanges.jpg"
+    ]
   },
   {
     "id": "butt-weld-fittings",
@@ -436,7 +504,7 @@
     "title": "Butt Weld Pipe Fittings",
     "description": "Preferred solution for critical piping systems ensuring uniform flow and zero leakage.",
     "longDescription": "By forming a fully welded joint, these fittings deliver exceptional strength, even in extreme pressure and temperature conditions. Leading stockist serving oil & gas, petrochemical, power, and process industries.",
-    "image": "https://images.unsplash.com/photo-1621253457007-ec0ee3db1900?auto=format&fit=crop&q=80&w=800",
+    "image": "/BUTTWELD FITTINGS/buttweld fittingss.avif",
     "specifications": [
       {
         "parameter": "Products",
@@ -486,7 +554,20 @@
           "ASTM B361 / B62 A96063, A96082, A96061, A95052, A95083, A97075, C83600"
         ]
       ]
-    }
+    },
+    "images": [
+      "/BUTTWELD FITTINGS/buttweld fittingss.avif",
+      "/BUTTWELD FITTINGS/CAPS.png",
+      "/BUTTWELD FITTINGS/Carbon Steel Reducers.png",
+      "/BUTTWELD FITTINGS/Carbon Steel teas.png",
+      "/BUTTWELD FITTINGS/ChatGPT Image Feb 13, 2026, 06_38_15 PM.png",
+      "/BUTTWELD FITTINGS/ChatGPT Image Feb 13, 2026, 06_38_48 PM.png",
+      "/BUTTWELD FITTINGS/ChatGPT Image Feb 13, 2026, 06_42_03 PM.png",
+      "/BUTTWELD FITTINGS/ChatGPT Image Feb 13, 2026, 06_42_32 PM.png",
+      "/BUTTWELD FITTINGS/ChatGPT Image Feb 19, 2026, 04_12_03 PM.png",
+      "/BUTTWELD FITTINGS/Elbows.png",
+      "/BUTTWELD FITTINGS/Tees.png"
+    ]
   },
   {
     "id": "forged-fittings",
@@ -494,7 +575,7 @@
     "title": "Forged Fittings",
     "description": "High-Pressure, Precision-Forged Solutions for compact piping systems.",
     "longDescription": "Designed for compact piping systems requiring high strength, excellent pressure resistance, and leak-free performance. Manufactured from solid forged materials.",
-    "image": "https://images.unsplash.com/photo-1565514020126-77765ecf9bb3?auto=format&fit=crop&q=80&w=800",
+    "image": "/FORGED FITTINGS  (1)/Carbon steel forged union.png",
     "specifications": [
       {
         "parameter": "Product Range",
@@ -544,6 +625,18 @@
           "ASTM B564 UNS N02200, N04400, N06600, N06625, N08825, N08020"
         ]
       ]
-    }
+    },
+    "images": [
+      "/FORGED FITTINGS  (1)/Carbon steel forged union.png",
+      "/FORGED FITTINGS  (1)/Forged elbow fittings .png",
+      "/FORGED FITTINGS  (1)/forged fiitngs pics.webp",
+      "/FORGED FITTINGS  (1)/FORGED FITTINGS  (5).png",
+      "/FORGED FITTINGS  (1)/Forged Fittings all.png",
+      "/FORGED FITTINGS  (1)/Forged Nipples.png",
+      "/FORGED FITTINGS  (1)/Forged Reducers .png",
+      "/FORGED FITTINGS  (1)/Stainless steel coupliangs.png",
+      "/FORGED FITTINGS  (1)/Stainless steel forged tee.png",
+      "/FORGED FITTINGS  (1)/stainless-steel-forged-fittings.jpg"
+    ]
   }
 ]

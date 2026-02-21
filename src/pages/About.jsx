@@ -8,7 +8,7 @@ const About = () => {
             <Hero
                 title="Building the Future with Steel"
                 subtitle="Supernova Steel India is a premier manufacturer, stockholder, and supplier of high-quality industrial raw materials."
-                image="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=80&w=1920"
+                image="/FLANGES/industrial-flange-manufacturing-process-in-india.jpg"
             />
 
             {/* Company Overview */}
@@ -34,8 +34,8 @@ const About = () => {
                         </div>
                     </div>
                     <div className="grid grid-cols-2 gap-4">
-                        <img src="https://images.unsplash.com/photo-1531685250784-75699ddc9afc?auto=format&fit=crop&q=80&w=600" alt="Factory" className="rounded-lg shadow-lg mt-8" />
-                        <img src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600" alt="Warehouse" className="rounded-lg shadow-lg mb-8" />
+                        <img src="/pipes/pipes/as pipe final.jpg" alt="Steel Pipes Stock" className="rounded-lg shadow-lg mt-8 object-cover h-64 w-full" />
+                        <img src="/SHEET PLATE COILS/SS COIL.jpg" alt="Coils Inventory" className="rounded-lg shadow-lg mb-8 object-cover h-64 w-full" />
                     </div>
                 </div>
             </section>

@@ -15,7 +15,7 @@ const Home = () => {
             <Hero
                 title="Engineering Materials for Global Industries"
                 subtitle="Premier supplier of Steel Pipes, Tubes, Fasteners, Flanges, and Fittings. Serving Oil & Gas, Power, and Infrastructure sectors worldwide."
-                image="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&q=80&w=1920"
+                image="/SHEET PLATE COILS/SS SHEET_LE_upscale_prime.jpg"
                 ctaText="Explore Products"
                 ctaLink="/products"
             />
@@ -56,7 +56,7 @@ const Home = () => {
                     </div>
                     <div className="relative h-[500px] rounded-lg overflow-hidden shadow-2xl">
                         <img
-                            src="https://images.unsplash.com/photo-1565456209420-2c7b5b57d6cd?auto=format&fit=crop&q=80&w=800"
+                            src="/pipes/pipes/CS PIPES.jpg"
                             alt="Industrial Steel Warehouse"
                             className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                         />

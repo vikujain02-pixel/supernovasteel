@@ -8,7 +8,7 @@ const Quality = () => {
             <Hero
                 title="Quality Commitment"
                 subtitle="Quality is at the core of everything we do. We ensure every product meets the highest international standards."
-                image="https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&q=80&w=1920"
+                image="/FLANGES/Flange-Inside-Diameter-of-WNRF-flanges.jpg"
             />
 
             {/* Quality Policy */}
@@ -80,8 +80,8 @@ const Quality = () => {
                         </ul>
                     </div>
                     <div className="flex flex-col gap-4">
-                        <img src="https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&q=80&w=800" alt="Lab Testing" className="rounded-lg shadow-md h-64 object-cover" />
-                        <img src="https://images.unsplash.com/photo-1542382156909-9ae37b3f56fd?auto=format&fit=crop&q=80&w=800" alt="Inspection" className="rounded-lg shadow-md h-64 object-cover" />
+                        <img src="/FLANGES/flange packing 13-1806.jpg" alt="Secure Packing" className="rounded-lg shadow-md h-64 object-cover w-full" />
+                        <img src="/pipes/pipes/Super Duplex  U Tubes.png" alt="Precision Tubes" className="rounded-lg shadow-md h-64 object-cover w-full" />
                     </div>
                 </div>
             </section>
