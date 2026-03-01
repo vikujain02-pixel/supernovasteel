@@ -18,7 +18,7 @@ const Material = () => {
             <Hero
                 title="Material"
                 subtitle="We supply a comprehensive range of ferrous and non-ferrous materials."
-                image="/SHEET PLATE COILS/Mirror Stainless Steel Plate .png"
+                image="/materials_hero.png"
             />
 
             <section className="py-20 bg-slate-50">

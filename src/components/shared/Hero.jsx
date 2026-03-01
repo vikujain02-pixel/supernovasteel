@@ -8,7 +8,7 @@ const Hero = ({ title, subtitle, image, ctaText, ctaLink, height = "h-[600px]" }
             {/* Background Image */}
             <div
                 className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
-                style={{ backgroundImage: `url(${image})` }}
+                style={{ backgroundImage: `url('${image}')` }}
             >
                 {/* Overlay */}
                 <div className="absolute inset-0 bg-slate-900/60 mix-blend-multiply"></div>

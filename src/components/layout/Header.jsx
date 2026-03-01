@@ -72,13 +72,6 @@ const Header = () => {
                         <Link to="/contact" className={`font-medium hover:text-accent transition-colors ${isActive('/contact') ? 'text-accent' : 'text-slate-700'}`}>Contact</Link>
                     </nav>
 
-                    {/* CTA Button */}
-                    <div className="hidden md:block">
-                        <Link to="/contact" className="bg-accent hover:bg-sky-700 text-white px-6 py-2.5 rounded font-semibold transition-colors shadow-sm">
-                            Get Quote
-                        </Link>
-                    </div>
-
                     {/* Mobile Menu Button */}
                     <button className="md:hidden text-primary" onClick={toggleMenu}>
                         {isOpen ? <X size={28} /> : <Menu size={28} />}
@@ -120,12 +113,6 @@ const Header = () => {
                         <Link to="/material" className="p-4 border-b border-slate-50 font-medium" onClick={closeMenu}>Material</Link>
                         <Link to="/quality" className="p-4 border-b border-slate-50 font-medium" onClick={closeMenu}>Quality</Link>
                         <Link to="/contact" className="p-4 border-b border-slate-50 font-medium" onClick={closeMenu}>Contact</Link>
-
-                        <div className="p-4">
-                            <Link to="/contact" className="block w-full text-center bg-accent text-white py-3 rounded font-semibold" onClick={closeMenu}>
-                                Get Quote
-                            </Link>
-                        </div>
                     </div>
                 </div>
             )}

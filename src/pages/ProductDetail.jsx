@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import Hero from '../components/shared/Hero';
-import InquiryForm from '../components/shared/InquiryForm';
 import products from '../data/products.json';
 import { CheckCircle, ShieldCheck, FileText, ArrowLeft } from 'lucide-react';
 import SEO from '../components/shared/SEO';
@@ -32,7 +31,7 @@ const ProductDetail = () => {
             <Hero
                 title={product.title}
                 subtitle={product.description}
-                image={product.image}
+                image={product.image || (product.images && product.images.length > 0 ? product.images[0] : '/products_hero.png')}
                 height="h-[400px]"
             />
 
@@ -57,40 +56,38 @@ const ProductDetail = () => {
                             {product.images && product.images.length > 0 && (
                                 <section className="mb-12">
                                     <h3 className="text-xl font-bold text-primary mb-4">Product Gallery</h3>
-                                    <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-8">
                                         {product.images.map((img, idx) => {
                                             // Extract filename and clean it up for the label
-                                            const filename = img.split('/').pop().split('.')[0];
+                                            const filename = img.split('/').pop().replace(/\.(jpg|jpeg|png|webp|avif)$/i, "");
                                             let label = filename
                                                 .replace(/[-_]/g, ' ') // Replace hyphens and underscores with spaces
                                                 .replace(/%20/g, ' ') // Replace URL encoded spaces
                                                 .replace(/\s+/g, ' ') // Normalize spaces
-                                                .replace(/\.[^/.]+$/, "") // Remove extension
                                                 .trim();
 
                                             // Hide label if it looks like a generated or generic filename
                                             const isGeneric = label.match(/^(chatgpt|image|img|screenshot|untitled)/i);
-                                            
+
                                             // Format "1743147532250" style names to be hidden or generic
                                             const isNumeric = /^\d+$/.test(label);
-                                            
+
                                             if (isGeneric || isNumeric) {
                                                 label = product.title; // Fallback to product title
                                             }
 
                                             return (
-                                                <div key={idx} className="group relative rounded-lg overflow-hidden h-64 border border-slate-100 shadow-sm hover:shadow-lg transition-all cursor-pointer bg-white">
-                                                    <div className="absolute inset-0 bg-black/0 group-hover:bg-black/40 transition-colors z-10 flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 p-4 text-center">
-                                                        <span className="text-white text-xs font-bold bg-black/50 px-3 py-1 rounded-full mb-2 truncate max-w-full">{label}</span>
+                                                <div key={idx} className="flex flex-col rounded-lg overflow-hidden border border-slate-200 shadow-sm hover:shadow-md transition-shadow cursor-pointer bg-white">
+                                                    <div className="w-full aspect-[4/3] relative overflow-hidden bg-slate-50">
+                                                        <img
+                                                            src={img}
+                                                            alt={label}
+                                                            className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
+                                                            loading="lazy"
+                                                            onClick={() => window.open(img, '_blank')}
+                                                        />
                                                     </div>
-                                                    <img
-                                                        src={img}
-                                                        alt={label}
-                                                        className="w-full h-full object-contain p-2 transform group-hover:scale-110 transition-transform duration-500 bg-white"
-                                                        loading="lazy"
-                                                        onClick={() => window.open(img, '_blank')}
-                                                    />
-                                                    <div className="absolute bottom-0 left-0 right-0 bg-slate-50/90 text-slate-700 text-[10px] font-medium p-2 text-center border-t border-slate-100 truncate">
+                                                    <div className="bg-slate-50 text-slate-700 text-xs font-semibold p-3 text-center border-t border-slate-200 truncate">
                                                         {label}
                                                     </div>
                                                 </div>
@@ -202,8 +199,6 @@ const ProductDetail = () => {
                     <div className="lg:col-span-1">
                         <div className="sticky top-24 space-y-8">
                             {/* Inquiry Form */}
-                            <InquiryForm productName={product.title} />
-
                             {/* Downloads or Assistance */}
                             <div className="bg-primary text-white p-6 rounded-lg shadow-lg">
                                 <h3 className="font-bold text-lg mb-4">Need Technical Assistance?</h3>

@@ -15,7 +15,7 @@ const Home = () => {
             <Hero
                 title="Engineering Materials for Global Industries"
                 subtitle="Premier supplier of Steel Pipes, Tubes, Fasteners, Flanges, and Fittings. Serving Oil & Gas, Power, and Infrastructure sectors worldwide."
-                image="/SHEET PLATE COILS/SS SHEET_LE_upscale_prime.jpg"
+                image="/home_hero.png"
                 ctaText="Explore Products"
                 ctaLink="/products"
             />
@@ -114,9 +114,6 @@ const Home = () => {
                         Get a competitive quote for our high-quality steel products. We ensure timely delivery and certified materials.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                        <Link to="/contact" className="bg-accent hover:bg-sky-600 text-white px-8 py-4 rounded font-bold transition-all">
-                            Request a Quote
-                        </Link>
                         <Link to="/contact" className="bg-transparent border border-white hover:bg-white hover:text-primary text-white px-8 py-4 rounded font-bold transition-all">
                             Contact Sales
                         </Link>

@@ -6,7 +6,7 @@
     "badge": "Best Seller",
     "description": "Supernova Steel India is a reliable stockist and supplier of ferrous and non-ferrous round bars, including stainless steel, alloy steel, carbon steel, nickel alloys, aluminium, copper, brass, bronze, titanium, and other special metals.",
     "longDescription": "We offer a comprehensive range of sizes, grades, and surface finishes to meet the diverse requirements of various industries. Our materials are sourced from reputed manufacturers such as Tata Steel, Mukand Ltd., Viraj Profiles, JSW Steel, SAIL, Vizag Steel, Jindal Aluminium, Hindalco, NALCO, Hindustan Copper, Vedanta Group, and other approved domestic & international mills. With strong inventory management and ready stock, we ensure fast delivery, consistent quality, and competitive pricing. All materials are supplied with full quality assurance and Mill Test Certificates (MTC).",
-    "image": "https://images.unsplash.com/photo-1535813547-99c456a41d4a?auto=format&fit=crop&q=80&w=800",
+    "image": "/ROUND BARS/Alloy Steel Round Bar.png",
     "materials": [
       {
         "category": "Ferrous Round Bars",
@@ -105,7 +105,21 @@
           "Alloy 954, 933"
         ]
       ]
-    }
+    },
+    "images": [
+      "/ROUND BARS/Alloy Steel Round Bar.png",
+      "/ROUND BARS/Aluminum Bar Gr.6061&6063.png",
+      "/ROUND BARS/Aluminum Bronze Bar.png",
+      "/ROUND BARS/Aluminum Round Bars.png",
+      "/ROUND BARS/Carbon Steel Bars.png",
+      "/ROUND BARS/Copper Rods.png",
+      "/ROUND BARS/Stainless Steel Bar  Gr.304.png",
+      "/ROUND BARS/Stainless Steel Black Bar Gr 316.png",
+      "/ROUND BARS/Stainless Steel Black Bar.png",
+      "/ROUND BARS/Stainless Steel Gr 316 Round bar.png",
+      "/ROUND BARS/Stainless Steel PH-17 Round Bar.png",
+      "/ROUND BARS/Super Duplex Steel Bar.png"
+    ]
   },
   {
     "id": "pipes-and-tubes",
@@ -114,7 +128,7 @@
     "badge": "Industrial Grade",
     "description": "Reliable supplier and stockist of Carbon Steel, Stainless Steel, and Alloy Pipes in Seamless and Welded constructions.",
     "longDescription": "Manufactured in accordance with Indian (IS), ASTM, ASME, API, and BS standards. Our pipes are known for high strength, dimensional accuracy, and long service life, making them suitable for pressure, structural, and fluid transmission applications. We supply API Line Pipes in both Seamless and Welded (ERW / LSAW / SSAW) forms for oil, gas, and water transmission pipelines.",
-    "image": "/pipes/pipes/Aluminium pipes.png",
+    "image": "/pipes/pipes/Aluminium Pipe & Tube.png",
     "subCategories": [
       {
         "name": "Carbon Steel Pipes",
@@ -173,22 +187,17 @@
     ],
     "grades": null,
     "images": [
-      "/pipes/pipes/Aluminium pipes.png",
-      "/pipes/pipes/API 5L PIPES.png",
-      "/pipes/pipes/API-5L-X52-PSL2-Seamless-steel-pipe.jpg,,,,,,,,,,,,,.png",
-      "/pipes/pipes/as pipe final.jpg",
-      "/pipes/pipes/ASTM A335 P11.png",
-      "/pipes/pipes/ASTTM A106 GR B CS PIPES.png",
-      "/pipes/pipes/Carbon steel pipes and tubes.png",
+      "/pipes/pipes/Aluminium Pipe & Tube.png",
+      "/pipes/pipes/Carbon Steel API 5L Pipes.png",
+      "/pipes/pipes/Alloy Steel Pipes.png",
+      "/pipes/pipes/Carbon Steel Pipes.png",
       "/pipes/pipes/ChatGPT Image Feb 19, 2026, 12_25_06 PM.png",
-      "/pipes/pipes/ChatGPT Image Jan 28, 2026, 04_00_13 PM.png",
-      "/pipes/pipes/CS PIPES.jpg",
       "/pipes/pipes/CS SMLS PIPES.png",
-      "/pipes/pipes/Inconel 625 pipes.png",
-      "/pipes/pipes/Inconel Alloy pipes.png",
+      "/pipes/pipes/Inconel Alloy 625 Pipes.png",
+      "/pipes/pipes/Nickel Alloy pipes.png",
       "/pipes/pipes/Nickal Alloy heat exchanger tubes.png",
-      "/pipes/pipes/ss 316 pipes.png",
-      "/pipes/pipes/ss welded pipes.png",
+      "/pipes/pipes/Stainless Steel Pipes.png",
+      "/pipes/pipes/Stainless Steel Welded Pipes.png",
       "/pipes/pipes/Super Duplex  U Tubes.png"
     ]
   },
@@ -198,7 +207,7 @@
     "title": "Sheets, Plates & Coils",
     "description": "Comprehensive portfolio of Sheets, Plates, and Coils across all Ferrous and Non-Ferrous grades.",
     "longDescription": "From standard commercial grades to high-performance and exotic alloys, we deliver metals engineered for today’s infrastructure, energy, manufacturing, and engineering challenges. We supply precision-engineered materials that comply with global quality standards.",
-    "image": "/SHEET PLATE COILS/316 SS PLATE.webp",
+    "image": "/SHEET PLATE COILS/Stainless Steel Sheet Gr.316.webp",
     "materials": [
       {
         "category": "Ferrous Metal",
@@ -271,23 +280,16 @@
       ]
     },
     "images": [
-      "/SHEET PLATE COILS/316 SS PLATE.webp",
-      "/SHEET PLATE COILS/316 TI SS PLATE.webp",
-      "/SHEET PLATE COILS/347 SS PLATE.webp",
-      "/SHEET PLATE COILS/A36 Carbon Steel Plate & Sheet .png",
-      "/SHEET PLATE COILS/Aluminum coil Gr. 5083 &5052 .png",
-      "/SHEET PLATE COILS/ALUMINYM COIL.jpg",
-      "/SHEET PLATE COILS/Carbon & Mild Steel Coils .png",
-      "/SHEET PLATE COILS/CS COIL.webp",
-      "/SHEET PLATE COILS/Mirror Stainless Steel Plate .png",
-      "/SHEET PLATE COILS/SS 316 COIL.webp",
-      "/SHEET PLATE COILS/SS COIL.jpg",
-      "/SHEET PLATE COILS/SS SHEET.webp",
-      "/SHEET PLATE COILS/SS SHEET_LE_upscale_prime.jpg",
+      "/SHEET PLATE COILS/Stainless Steel Sheet Gr.316.webp",
+      "/SHEET PLATE COILS/Stainless Steel Sheet Gr.347.webp",
+      "/SHEET PLATE COILS/Carbon Steel Plate Gr. A36.png",
+      "/SHEET PLATE COILS/Carbon Steel Coils.webp",
+      "/SHEET PLATE COILS/Stainless Steel Sheet Gr.430.png",
+      "/SHEET PLATE COILS/Stainless Steel Coils Gr.316.webp",
+      "/SHEET PLATE COILS/Stainless Steel Coils Gr. 201-202.jpg",
       "/SHEET PLATE COILS/Stainless Steel Chequered sheets.png",
-      "/SHEET PLATE COILS/Stainless Steel Hot Rolled Coil .png",
-      "/SHEET PLATE COILS/Stainless Steel Sheet Gr.304.png",
-      "/SHEET PLATE COILS/Titanium steel plate GR1 GR2.png"
+      "/SHEET PLATE COILS/Titanium steel plate GR1 GR2.png",
+      "/SHEET PLATE COILS/Copper_Sheet.png"
     ]
   },
   {
@@ -296,7 +298,7 @@
     "title": "Fasteners",
     "description": "Comprehensive range of industrial fasteners manufactured from high-quality ferrous and non-ferrous materials.",
     "longDescription": "Suitable for demanding industrial applications. All fasteners are produced in compliance with international standards and supplied with complete quality documentation (MTC, Dimensional/Visual inspection).",
-    "image": "https://images.unsplash.com/photo-1582234394462-2bab5c8eec99?auto=format&fit=crop&q=80&w=800",
+    "image": "/FASTNERS/Anchors.png",
     "subCategories": [
       {
         "name": "Bolts",
@@ -348,6 +350,19 @@
         "parameter": "Threads",
         "value": "Metric, UNC, UNF, BSW"
       }
+    ],
+    "images": [
+      "/FASTNERS/Anchors.png",
+      "/FASTNERS/BOLTS .png",
+      "/FASTNERS/FASTENERS .jpeg",
+      "/FASTNERS/Hex head bolts.png",
+      "/FASTNERS/Nuts.png",
+      "/FASTNERS/Screws..png",
+      "/FASTNERS/SCREWS.png",
+      "/FASTNERS/Self Drilling Screws..png",
+      "/FASTNERS/Square Nuts.png",
+      "/FASTNERS/Stud Bolts.png",
+      "/FASTNERS/WASHER .png"
     ]
   },
   {
@@ -477,22 +492,16 @@
       ]
     },
     "images": [
-      "/FLANGES/1743147532250.png",
       "/FLANGES/Alloy Steel Flanges.png",
       "/FLANGES/ASTM A105 Carbon Steel Flanges.png",
-      "/FLANGES/carbon-steel-A694-f52.jpg",
       "/FLANGES/cs flanges a694 f70.jpg",
-      "/FLANGES/cs flanges'.jpg",
       "/FLANGES/Cupper  Nickel Flanges.png",
       "/FLANGES/Duplex 2205 UNS S31803 Flanges.png",
-      "/FLANGES/duplex-steel-flanges.jpg",
       "/FLANGES/flange packing 13-1806.jpg",
       "/FLANGES/Flange-Inside-Diameter-of-WNRF-flanges.jpg",
       "/FLANGES/Forged-Steel-Flange..jpg",
-      "/FLANGES/industrial-flange-manufacturing-process-in-india.jpg",
       "/FLANGES/ss-304-flanges.jpg",
       "/FLANGES/ss-316-316l-flanges.jpg",
-      "/FLANGES/Stainless Steel Flanges .png",
       "/FLANGES/Stainless Steel Flanges Gr.316.png",
       "/FLANGES/stainless-steel-slip-on-flanges.jpg",
       "/FLANGES/stainless-steel-spactical-blind-flanges.jpg"
@@ -556,12 +565,10 @@
       ]
     },
     "images": [
-      "/BUTTWELD FITTINGS/buttweld fittingss.avif",
       "/BUTTWELD FITTINGS/CAPS.png",
       "/BUTTWELD FITTINGS/Carbon Steel Reducers.png",
       "/BUTTWELD FITTINGS/Carbon Steel teas.png",
       "/BUTTWELD FITTINGS/ChatGPT Image Feb 13, 2026, 06_38_15 PM.png",
-      "/BUTTWELD FITTINGS/ChatGPT Image Feb 13, 2026, 06_38_48 PM.png",
       "/BUTTWELD FITTINGS/ChatGPT Image Feb 13, 2026, 06_42_03 PM.png",
       "/BUTTWELD FITTINGS/ChatGPT Image Feb 13, 2026, 06_42_32 PM.png",
       "/BUTTWELD FITTINGS/ChatGPT Image Feb 19, 2026, 04_12_03 PM.png",
@@ -631,7 +638,6 @@
       "/FORGED FITTINGS  (1)/Forged elbow fittings .png",
       "/FORGED FITTINGS  (1)/forged fiitngs pics.webp",
       "/FORGED FITTINGS  (1)/FORGED FITTINGS  (5).png",
-      "/FORGED FITTINGS  (1)/Forged Fittings all.png",
       "/FORGED FITTINGS  (1)/Forged Nipples.png",
       "/FORGED FITTINGS  (1)/Forged Reducers .png",
       "/FORGED FITTINGS  (1)/Stainless steel coupliangs.png",

@@ -16,11 +16,6 @@ const Footer = () => {
                     <p className="text-slate-400 leading-relaxed text-sm">
                         Supernova Steel India is a global leader in manufacturing and supplying high-quality steel products, pipes, tubes, fasteners, and industrial fittings.
                     </p>
-                    <div className="flex gap-4">
-                        <a href="#" className="hover:text-accent transition-colors"><Linkedin size={20} /></a>
-                        <a href="#" className="hover:text-accent transition-colors"><Twitter size={20} /></a>
-                        <a href="#" className="hover:text-accent transition-colors"><Facebook size={20} /></a>
-                    </div>
                 </div>
 
                 {/* Quick Links */}

@@ -8,7 +8,7 @@ const About = () => {
             <Hero
                 title="Building the Future with Steel"
                 subtitle="Supernova Steel India is a premier manufacturer, stockholder, and supplier of high-quality industrial raw materials."
-                image="/FLANGES/industrial-flange-manufacturing-process-in-india.jpg"
+                image="/about_hero.png"
             />
 
             {/* Company Overview */}
@@ -33,9 +33,8 @@ const About = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="grid grid-cols-2 gap-4">
+                    <div className="grid grid-cols-1 gap-4">
                         <img src="/pipes/pipes/as pipe final.jpg" alt="Steel Pipes Stock" className="rounded-lg shadow-lg mt-8 object-cover h-64 w-full" />
-                        <img src="/SHEET PLATE COILS/SS COIL.jpg" alt="Coils Inventory" className="rounded-lg shadow-lg mb-8 object-cover h-64 w-full" />
                     </div>
                 </div>
             </section>

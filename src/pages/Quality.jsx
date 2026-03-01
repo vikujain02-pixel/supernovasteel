@@ -8,7 +8,7 @@ const Quality = () => {
             <Hero
                 title="Quality Commitment"
                 subtitle="Quality is at the core of everything we do. We ensure every product meets the highest international standards."
-                image="/FLANGES/Flange-Inside-Diameter-of-WNRF-flanges.jpg"
+                image="/quality_hero.png"
             />
 
             {/* Quality Policy */}

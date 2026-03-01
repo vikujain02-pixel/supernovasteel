@@ -10,7 +10,7 @@ const Products = () => {
             <Hero
                 title="Our Products"
                 subtitle="Explore our comprehensive range of industrial steel products."
-                image="/SHEET PLATE COILS/ALUMINYM COIL.jpg"
+                image="/products_hero.png"
             />
 
             <div className="max-w-7xl mx-auto px-4 md:px-8 py-20">
