@@ -494,17 +494,12 @@
     "images": [
       "/FLANGES/Alloy Steel Flanges.png",
       "/FLANGES/ASTM A105 Carbon Steel Flanges.png",
-      "/FLANGES/cs flanges a694 f70.jpg",
-      "/FLANGES/Cupper  Nickel Flanges.png",
       "/FLANGES/Duplex 2205 UNS S31803 Flanges.png",
-      "/FLANGES/flange packing 13-1806.jpg",
       "/FLANGES/Flange-Inside-Diameter-of-WNRF-flanges.jpg",
       "/FLANGES/Forged-Steel-Flange..jpg",
-      "/FLANGES/ss-304-flanges.jpg",
-      "/FLANGES/ss-316-316l-flanges.jpg",
-      "/FLANGES/Stainless Steel Flanges Gr.316.png",
-      "/FLANGES/stainless-steel-slip-on-flanges.jpg",
-      "/FLANGES/stainless-steel-spactical-blind-flanges.jpg"
+      "/FLANGES/Stainless Steel Flanges Gr.304.jpg",
+      "/FLANGES/Stainless Steel Flanges Gr.316.jpg",
+      "/FLANGES/Stainless Steel Spectacle Blind Flange.jpg"
     ]
   },
   {
@@ -582,7 +577,7 @@
     "title": "Forged Fittings",
     "description": "High-Pressure, Precision-Forged Solutions for compact piping systems.",
     "longDescription": "Designed for compact piping systems requiring high strength, excellent pressure resistance, and leak-free performance. Manufactured from solid forged materials.",
-    "image": "/FORGED FITTINGS  (1)/Carbon steel forged union.png",
+    "image": "/FORGED FITTINGS  (1)/FORGED FITTINGS  (5).png",
     "specifications": [
       {
         "parameter": "Product Range",
@@ -636,13 +631,10 @@
     "images": [
       "/FORGED FITTINGS  (1)/Carbon steel forged union.png",
       "/FORGED FITTINGS  (1)/Forged elbow fittings .png",
-      "/FORGED FITTINGS  (1)/forged fiitngs pics.webp",
-      "/FORGED FITTINGS  (1)/FORGED FITTINGS  (5).png",
       "/FORGED FITTINGS  (1)/Forged Nipples.png",
       "/FORGED FITTINGS  (1)/Forged Reducers .png",
-      "/FORGED FITTINGS  (1)/Stainless steel coupliangs.png",
-      "/FORGED FITTINGS  (1)/Stainless steel forged tee.png",
-      "/FORGED FITTINGS  (1)/stainless-steel-forged-fittings.jpg"
+      "/FORGED FITTINGS  (1)/Socket Weld Coupling.png",
+      "/FORGED FITTINGS  (1)/Stainless steel forged tee.png"
     ]
   }
 ]

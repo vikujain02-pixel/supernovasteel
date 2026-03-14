@@ -80,8 +80,8 @@ const Quality = () => {
                         </ul>
                     </div>
                     <div className="flex flex-col gap-4">
-                        <img src="/FLANGES/flange packing 13-1806.jpg" alt="Secure Packing" className="rounded-lg shadow-md h-64 object-cover w-full" />
-                        <img src="/pipes/pipes/Super Duplex  U Tubes.png" alt="Precision Tubes" className="rounded-lg shadow-md h-64 object-cover w-full" />
+                        <img src="/QUALITY/ChatGPT Image Mar 9, 2026, 08_13_31 PM.png" alt="Quality Packing" className="rounded-lg shadow-md h-64 object-cover w-full" />
+                        <img src="/QUALITY/ChatGPT Image Mar 9, 2026, 08_14_11 PM.png" alt="Precision Quality" className="rounded-lg shadow-md h-64 object-cover w-full" />
                     </div>
                 </div>
             </section>
