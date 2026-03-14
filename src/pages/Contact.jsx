@@ -33,8 +33,10 @@ const Contact = () => {
                                     <div>
                                         <h4 className="font-bold text-lg text-primary">Head Office</h4>
                                         <p className="text-slate-600">
-                                            401, Industrial Area, Steel Market,<br />
-                                            Mumbai, Maharashtra - 400004,<br />
+                                            Supernova steel India <br />
+                                            Add: 2nd Floor, Office No.16,<br />
+                                            Keshav Bhuvan, 1st Carpenter Street Cawasji Patel Tank,<br />
+                                            Mumbai, Maharashtra 400004<br />
                                             India
                                         </p>
                                     </div>
@@ -46,8 +48,8 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <h4 className="font-bold text-lg text-primary">Phone</h4>
-                                        <p className="text-slate-600">+91 98765 43210</p>
-                                        <p className="text-slate-600">+91 98765 43211</p>
+                                        <p className="text-slate-600">+91-8118824434</p>
+                                        <p className="text-slate-600">+91-8369544547</p>
                                     </div>
                                 </div>
                             </div>
@@ -60,7 +62,8 @@ const Contact = () => {
                                     <div>
                                         <h4 className="font-bold text-lg text-primary">Email</h4>
                                         <p className="text-slate-600">sales@supernovasteel.com</p>
-                                        <p className="text-slate-600">info@supernovasteel.com</p>
+                                        <p className="text-slate-600">supernovasteelindia@gmail.com</p>
+                                        <p className="text-slate-600">vikash@supernovasteel.com</p>
                                     </div>
                                 </div>
 
@@ -80,7 +83,7 @@ const Contact = () => {
                         {/* Google Map Placeholder */}
                         <div className="w-full h-80 bg-slate-200 rounded-lg overflow-hidden relative mt-8">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15088.35824831737!2d72.8258!3d18.975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDU4JzMwLjAiTiA3MsKwNDknMzIuOSJF!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1209.1171887342938!2d72.826264!3d18.9565553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7cfe3a59782a3%3A0x184ae143773b1097!2sSupernova%20steel%20india!5e0!3m2!1sen!2sin!4v1715694200000!5m2!1sen!2sin"
                                 width="100%"
                                 height="100%"
                                 style={{ border: 0 }}

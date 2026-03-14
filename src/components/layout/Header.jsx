@@ -23,8 +23,8 @@ const Header = () => {
             <div className="bg-primary text-white py-2 px-4 md:px-8 text-xs md:text-sm">
                 <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-2 md:gap-0">
                     <div className="flex items-center gap-6">
-                        <span className="flex items-center gap-2"><Phone size={14} className="text-accent" /> +91 98765 43210</span>
-                        <span className="flex items-center gap-2"><Mail size={14} className="text-accent" /> sales@supernovasteel.com</span>
+                        <span className="flex items-center gap-2"><Phone size={14} className="text-accent" /> +91-8118824434</span>
+                        <span className="flex items-center gap-2"><Mail size={14} className="text-accent" /> sales@supernovasteel.com, vikash@supernovasteel.com</span>
                     </div>
                     <div className="flex items-center gap-4">
                         <span className="flex items-center gap-2"><Globe size={14} /> Global Exporter</span>

@@ -49,15 +49,15 @@ const Footer = () => {
                     <ul className="space-y-4 text-sm">
                         <li className="flex items-start gap-3">
                             <MapPin size={18} className="text-accent shrink-0 mt-0.5" />
-                            <span>401, Industrial Area, Steel Market,<br />Mumbai, Maharashtra - 400004</span>
+                            <span>Supernova steel India<br />2nd Floor, Office No.16, Keshav Bhuvan, 1st Carpenter Street Cawasji Patel Tank,<br />Mumbai, Maharashtra 400004</span>
                         </li>
                         <li className="flex items-center gap-3">
                             <Phone size={18} className="text-accent shrink-0" />
-                            <span>+91 98765 43210</span>
+                            <span>+91-8118824434</span>
                         </li>
                         <li className="flex items-center gap-3">
                             <Mail size={18} className="text-accent shrink-0" />
-                            <span>sales@supernovasteel.com</span>
+                            <span>sales@supernovasteel.com<br/>vikash@supernovasteel.com</span>
                         </li>
                     </ul>
                 </div>
